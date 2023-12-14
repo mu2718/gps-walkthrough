@@ -9,5 +9,3 @@ Contents:
 - `gps_walkthrough/`: Python module implementing GPS L1 C/A wave recording analysis,
 - `*.ipynb`: Jupyter notebooks corresponding to each GPS walkthrough steps from the blog,
 - `example-data/`: Folder containing an example GPS signal recording,
-- `requirements.txt`: Python library versions required for running.
-
